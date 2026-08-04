@@ -1,0 +1,29 @@
+# Lista curada de veiculos jornalisticos brasileiros com registro editorial
+# publico consolidado (artigo, Secao 3.2: fator R consulta "bases de reputacao
+# como o ScamAdviser, alem de uma lista curada de veiculos jornalisticos
+# brasileiros com registro editorial publico"). Nao e exaustiva - adicione um
+# dominio por linha conforme necessario. Linhas comecando com # sao comentarios.
+
+g1.globo.com
+oglobo.globo.com
+valor.globo.com
+folha.uol.com.br
+uol.com.br
+estadao.com.br
+agenciabrasil.ebc.com.br
+cnnbrasil.com.br
+bbc.com
+r7.com
+band.uol.com.br
+correiobraziliense.com.br
+gazetadopovo.com.br
+poder360.com.br
+metropoles.com
+veja.abril.com.br
+exame.com
+terra.com.br
+
+# Agencias de checagem de fatos citadas no artigo (Secao 4.4, trabalhos futuros)
+aosfatos.org
+lupa.uol.com.br
+agenciapublica.org
